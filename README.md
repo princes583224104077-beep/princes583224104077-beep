@@ -2,29 +2,29 @@
 
 # 👋 Hi, I'm Prince S
 
-### Full Stack Developer | React.js | Node.js | MongoDB | Flutter Learner
+### Full Stack Developer | React.js | Next.js | Flask | PHP | MySQL
 
 <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="100%" />
 
 </div>
 
 <h3 align="left">
-🚀 Building Modern Web Applications • REST APIs • Mobile Apps
+🚀 Building Modern Web Applications • REST APIs • Database Design
 </h3>
 
 <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
 <p>
 
-🎓 BE Computer Science and Engineering Student at <b>NPR College of Engineering and Technology</b>
+🎓 Third-Year BE Computer Science & Engineering Student at <b>NPR College of Engineering and Technology</b>
 
-💻 Passionate Full Stack Developer focused on building scalable web applications and backend systems.
+💻 Passionate Full Stack Developer experienced in building responsive web applications using React.js, Next.js, Flask, PHP, MySQL, and Redis.
 
-🌱 Currently learning Flutter, System Design, Advanced Node.js and Backend Architecture.
+🚀 Interested in Full Stack Development, Backend Development, REST APIs, and Scalable Web Applications.
 
-🚀 Interested in Full Stack Development, Mobile Development and API Engineering.
+🌱 Currently learning TypeScript, Express.js, MongoDB, JWT Authentication, Redux Toolkit, Docker, CI/CD, and AWS Basics.
 
-🤝 Open to Internship Opportunities and Collaboration.
+🤝 Open to Internship Opportunities and Open Source Collaboration.
 
 </p>
 
@@ -50,7 +50,7 @@
 
 ---
 
-# 🛠️ Skills
+# 💻 Tech Stack
 
 <table>
 
@@ -58,17 +58,17 @@
 
 <td width="50%" align="center">
 
-<h3>🌐 Frontend Development</h3>
+<h3>🌐 Frontend</h3>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind,vite" />
 
 </td>
 
 <td width="50%" align="center">
 
-<h3>⚙️ Backend Development</h3>
+<h3>⚙️ Backend</h3>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=python,flask,php,nodejs" />
 
 </td>
 
@@ -78,17 +78,17 @@
 
 <td width="50%" align="center">
 
-<h3>📱 Mobile Development</h3>
+<h3>🗄️ Database & Cache</h3>
 
-<img src="https://skillicons.dev/icons?i=flutter" />
+<img src="https://skillicons.dev/icons?i=mysql,redis" />
 
 </td>
 
 <td width="50%" align="center">
 
-<h3>🗄️ Databases</h3>
+<h3>🛠️ Tools</h3>
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel,npm" />
 
 </td>
 
@@ -96,37 +96,75 @@
 
 <tr>
 
-<td width="50%" align="center">
+<td colspan="2" align="center">
 
-<h3>🔌 API Design</h3>
+<h3>📚 Currently Learning</h3>
 
-REST APIs • Authentication • API Integration
+<img src="https://skillicons.dev/icons?i=typescript,express,mongodb,redux,docker,aws" />
 
-</td>
+<br><br>
 
-<td width="50%" align="center">
-
-<h3>🏗️ System Design</h3>
-
-Scalable Architecture • Database Design
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="100%" colspan="2" align="center">
-
-<h3>🧰 Tools</h3>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+TypeScript • Express.js • MongoDB • JWT Authentication • OAuth • Redux Toolkit • Axios • React Router • CI/CD (GitHub Actions) • AWS Basics • Jest
 
 </td>
 
 </tr>
 
 </table>
+
+---
+
+# 🚀 Featured Projects
+
+## 🌐 Portfolio Website
+
+**Tech Stack:** React.js • Next.js • Bootstrap • JavaScript
+
+- Responsive developer portfolio
+- Reusable React components
+- Mobile-first design
+- Modern animations
+
+🔗 Repository:
+https://github.com/princes583224104077-beep/PRINCE.S-FULL-STACK-DEVELOPER
+
+---
+
+## ✈️ Travel Booking Website
+
+**Tech Stack:** Flask • MySQL • HTML • CSS • JavaScript
+
+- Full-stack travel booking system
+- RESTful APIs
+- CRUD Operations
+- Database Integration
+- Responsive UI
+
+---
+
+## 🏖️ Madurai Tamil Ji Holidays
+
+**Tech Stack:** PHP • MySQL • Redis • HTML • CSS • JavaScript
+
+- Holiday & Tour Booking Platform
+- Redis Caching
+- Dynamic Pages
+- MySQL Database
+- Admin Dashboard
+
+🔗 Repository:
+https://github.com/princes583224104077-beep/Madurai-Tamil-Ji-holidays
+
+---
+
+## 🛒 Online Shopping Website
+
+**Tech Stack:** React.js • Backend API • Database Integration
+
+- Product Listing
+- Shopping Cart
+- Backend Integration
+- Responsive Design
 
 ---
 
@@ -142,19 +180,17 @@ Scalable Architecture • Database Design
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=princes583224104077-beep&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=princes583224104077-beep&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<br>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princes583224104077-beep&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=princes583224104077-beep&theme=tokyonight&hide_border=true" />
+<br><br>
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princes583224104077-beep&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=princes583224104077-beep&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -164,50 +200,56 @@ Scalable Architecture • Database Design
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=princes583224104077-beep&theme=tokyonight&no-frame=true&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=princes583224104077-beep&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=princes583224104077-beep&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=princes583224104077-beep&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🚀 Current Focus
+# 🎯 Current Focus
 
-• Full Stack Development
-
-• React.js & Node.js
-
-• Express.js
-
-• MongoDB & MySQL
-
-• Flutter Development
-
-• API Design
-
-• System Design
-
-• Building Real-World Projects
+- 🚀 Full Stack Development
+- ⚛️ React.js & Next.js
+- 🐍 Flask Development
+- 🐘 PHP Development
+- 🛢️ MySQL & Redis
+- 🔗 REST API Development
+- 🐳 Docker
+- ☁️ Deployment with Vercel
+- 📚 Learning Express.js & MongoDB
+- 💼 Building Production-Level Projects
 
 ---
 
 # 📫 Contact
 
-💼 LinkedIn:
+📧 **Email**  
+princes583224104077@nprcolleges.org
+
+💼 **LinkedIn**  
 https://www.linkedin.com/in/prince-s-a2ab93371
 
-🐙 GitHub:
+🐙 **GitHub**  
 https://github.com/princes583224104077-beep
 
 ---
 
-⭐ From **Prince S**
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."* 🚀
+
+<img src="https://komarev.com/ghpvc/?username=princes583224104077-beep&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
